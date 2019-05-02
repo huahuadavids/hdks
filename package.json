@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["javascript"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/huahuadavids/hdks"
+  },
+  "keywords": ["javascript", "util"],
   "author": "huahuadavids",
   "email": "huahuadavids@qq.com",
   "license": "MIT"
