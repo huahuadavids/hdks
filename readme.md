@@ -1,4 +1,4 @@
-# jdks 
+# hdks 
 >  js utils usefully 
 
 ### math 
